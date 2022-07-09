@@ -49,11 +49,7 @@ git clone https://github.com/RHIE-coder/for-moon
 
 ## 4. Data-based Agenda
 
- - [ ] PER, EPS 계산의 기준과 적용방식 [Ref.](https://news.mt.co.kr/mtview.php?no=2007072515312238429)
- - [ ] Dart Open API 활용 여부 [link](https://opendart.fss.or.kr/)
- - [ ] 크롤링을 통한 데이터 추가확보 필요성 [link](http://data.krx.co.kr/contents/MDC/MDI/mdiLoader/index.cmd?menuId=MDC0201020103)
- - [ ] Why 종목코드
- - [ ] train, validation, test
+ - [2022.07.07(목)](./docs/20220707.md)
 
 <br><br><br>
 
