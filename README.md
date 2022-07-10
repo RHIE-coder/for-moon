@@ -50,6 +50,7 @@ git clone https://github.com/RHIE-coder/for-moon
 ## 4. Data-based Agenda
 
  - [2022.07.07(목)](./docs/20220707.md)
+ - [ ] `np.inf`의 영향
 
 <br><br><br>
 
