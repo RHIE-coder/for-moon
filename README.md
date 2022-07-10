@@ -50,10 +50,13 @@ git clone https://github.com/RHIE-coder/for-moon
 ## 4. Data-based Agenda
 
  - [2022.07.07(목)](./docs/20220707.md)
- - [ ] `np.inf`의 영향
+ - [2022.07.10(일)](./docs/20220710.md)
+
 
 <br><br><br>
 
 ## 5. Useful Ref.
 
  - [KAGGLE: Stock Market Visualization](https://www.kaggle.com/code/kratisaxena/stock-market-technical-indicators-visualization)
+
+ - [KAGGLE: LSTM-GRU models for Stock Movement Analysis](https://www.kaggle.com/code/kratisaxena/lstm-gru-models-for-stock-movement-analysis/notebook)
